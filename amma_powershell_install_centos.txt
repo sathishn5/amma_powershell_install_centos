@@ -1,0 +1,2 @@
+Install-Module -Name AZ -AllowClobber -Scope CurrentUser
+Connect-AzAccount -UseDeviceAuthentication
