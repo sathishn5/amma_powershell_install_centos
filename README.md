@@ -1,0 +1,1 @@
+# amma_powershell_install_centos
